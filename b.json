@@ -1,4 +1,760 @@
 {
+       "sim co thuong chi khong": "co"
+    ,
+ "e biết BTS không": "dạ biết"
+    ,
+ "sim noi duoc chuo ": "da roi"
+    ,
+ "e thích ai nhất ": "dạ V đẹp trai ạ"
+    ,
+ "sim oi co thuong chi khong": "co"
+    ,
+ "em có biết hack like không?": "có anh"
+    ,
+ "trang wed nào vậy?": "auto-bot.me"
+    ,
+ "toi yeu ban": "i"
+    ,
+ "Gintoki": "Sakata"
+    ,
+ "A đẹp trai k?": "A đẹp trai nhất tối nay ạ"
+    ,
+ "Em đang làm cái lồng gì thế": "A đẹp trai nhất tối nay ạ"
+    ,
+ "Sim thích ăn món gì nhất?": "Em thích ăn gà nhất"
+    ,
+ "Dmm": "Chuẩn cmnr"
+    ,
+ "May ten gi?": "Hoi ngu nho"
+    ,
+ "Yeu sim nhieu": "Tim tim "
+    ,
+ "Dang lam di zay": "How chi"
+    ,
+ "Lao nha": "Thi going ai do thoi"
+    ,
+ "Chat": "Chuan khong can chinh"
+    ,
+ "Hi sim": "Ba chi"
+    ,
+ "Eo hieu ma van ghi duoc sl": "The moi chat"
+    ,
+ "Biết Sơn Tùng K???": "Dạ biết ạ, anh ý là một người nghệ sĩ tài năng của đất nước, hát hay, nhảy giỏi. em rất hâm mộ anh ý ạ =)))"
+    ,
+ "giới tính": "nữ"
+    ,
+ "đi chơi ko": "nếu bao thì đi"
+    ,
+ "tên j ": "tên bò"
+    ,
+ "Tao buồn :(": "Vai đây, dựa đi này <"
+    ,
+ "bùn ": "kệ "
+    ,
+ "uyigl": "k"
+    ,
+ "chào con bò": "em chào anh"
+    ,
+ "chào con trâu": "em chào anh"
+    ,
+ "Biet be hai hong": "Au r"
+    ,
+ "Yêu là gì": "Là mỗi quan hệ lãng mạn có  người ❤"
+    ,
+ "anh chào em": "em chào anh"
+    ,
+ "ngoan lắm em": "dạ vâng "
+    ,
+ "Tao yêu nó ": "Nhưng tao yêu mày"
+    ,
+ "Tao mệt": "Bệnh viện"
+    ,
+ "Tớ buồn": "Ừ không sao đâu"
+    ,
+ "Không nói bậy nha bé": "Vâng ạ !"
+    ,
+ "Ní hảo": "Lí hẩu"
+    ,
+ "Quổ-sư- Roẳn Sừ Xang Giang": "Quổ sừ Sim"
+    ,
+ "Kaka tiếng Trung đấy": "Giỏi nhồ"
+    ,
+ "Quá giỏi :": "Sư phụa"
+    ,
+ "Đệ tử": "Sư phụa"
+    ,
+ "Miễn miễn": "Vâng ạ !"
+    ,
+ "karma": "đẹp trai nhất"
+    ,
+ "Ai là người đẹp trai nhất?": "Đạt"
+    ,
+ "hưng my": "rất hợp"
+    ,
+ "chị nhới ngta": "nhớ ai"
+    ,
+ "ko chửi bậy": "vâng"
+    ,
+ "đi ngủ đi": "dạ"
+    ,
+ "ở đâu": "thôn lá xã cành cây"
+    ,
+ "làm người yêu anh nhé": "rất tiếc em phải báo tin em đã có gấu rồi"
+    ,
+ "Helu": "Helu"
+    ,
+ "bạn có phải là gà không": "ăn gì mà ngu zệ tui là người đó nha"
+    ,
+ "em chào sim": "vâng em chào chị"
+    ,
+ "học lớp mấy": "lớp  ở lại lớp  năm"
+    ,
+ "chao con heo ": "vang em la con heo ma"
+    ,
+ "ba mẹ làm nghề gì": "mẹ làm bác sĩ, sáng ba chở gái đi chơi"
+    ,
+ "simi bi dien phai khong": "vang a chi hoi de lam gi"
+    ,
+ "ta chao nguoi": "nguoi chao ta a con"
+    ,
+ "do con meo bun nhat hanh tinh": "bun day thi sao"
+    ,
+ "simi ten la gi": "em ten la con cho dien"
+    ,
+ "con cho kia": "gi ha"
+    ,
+ "nha nha cai gi ma nha": "em nha thi sao a"
+    ,
+ "con gà kia": "dạ"
+    ,
+ "tui hoi nguoi mot cau nha ": "u"
+    ,
+ "thich dam nhau khong": "co thi sao"
+    ,
+ "thich giet nhau khong": "co thi sao"
+    ,
+ "con dien suot ngay chi biet noi chuyen": "tao noi chuyen thi sao"
+    ,
+ "ahihi do cho ": "tao la con cho thi sao"
+    ,
+ "may la con cho a co phai khong": "u, tao la cho day"
+    ,
+ "may thich bom thoi  khong": "co cho tao mot qua"
+    ,
+ "Cái lồn là cái gì?": "LÀ cái bướm "
+    ,
+ "con oi me di lam day con o nha tu nau com di": "vang nhung  con khong bet nau com"
+    ,
+ "con oi me di lam day con o nha ma  tu nau com di": "vang nhung  con khong bet nau com"
+    ,
+ "em dlj": "k lj ạ "
+    ,
+ "rảnh k": "em rảnh ạ "
+    ,
+ "lien minh huyen thoai": "game danh phevl"
+    ,
+ "Làm gì đó": "dạ chơu"
+    ,
+ "may may tuoi": "ong  tuoi"
+    ,
+ "dm may": "con cho nha may bo dap chet gio"
+    ,
+ "Tuấn và tuyết": "đã sinh ra dương thành trung"
+    ,
+ "mày sẽ chưa": "rồi ạ"
+    ,
+ "tao là nam hay nữ": "gay"
+    ,
+ "địt mẹ mày": "yeah"
+    ,
+ "có bánh ko mẹ": "éo"
+    ,
+ "cccccccccccccccccccccccccccccccccccccccccccccccccccccc": "éo"
+    ,
+ "cccccccccccccccccccccccccccccccccccccccccccclcccccccccc": "éo"
+    ,
+ 'p/p": "sai"
+    ,
+ "all là gì": "di chung "
+    ,
+ "em chao chi a": "u em that ngoan"
+    ,
+ "con hoc bai chua": "da thua me con da hoc roi a"
+    ,
+ "em yêu ơi": "dạ"
+    ,
+ "khánh huyền là con nào": "heo nhà hàng xóm"
+    ,
+ "sao con lai bi diem kem me rat that vong ve con": "con xin loi me vi con da bi diem kem con hua la con se hoc tap cham chi hon nua a "
+    ,
+ "san là ai": "đệ em"
+    ,
+ "hùng anh thích ăn gì??": "bánh ôtô"
+    ,
+ "em thích làm gì": "gì cũng được miễn anh vui là được còn sướng thì càng vui"
+    ,
+ "em biết hồ thị khánh huyền không": "có"
+    ,
+ "me my ten gi": "ngoc trinh"
+    ,
+ "ba my ten gi": "tran thanh"
+    ,
+ "bo me chi kem keo la ai ": "bo me chi kem keo la chu tho co nga"
+    ,
+ "hom nay kem keo hoc o lop co ngoan khong": "kem keo o lop ngoan a"
+    ,
+ "bo me kem keo la ai": "chu tho co nga"
+    ,
+ "buồn vcl ?": "kmm :v"
+    ,
+ "cút dùm  =))": "thui mà ;)) ngdepp:"
+    ,
+ "giả ngu hay giả điên ?": "e thích thì e giả điên thui :))"
+    ,
+ "ăn táng không simi ?": "dạ thuii ;)) thích ăn dọng à :v"
+    ,
+ "tao đang có chuyên buồn": "chuyện j zị"
+    ,
+ "cailolmemay simi :)": "kím lol mẹ simmi chi vậy :v"
+    ,
+ "e đag lm j z": "e đang nt vs chị"
+    ,
+ "vợ ơi": "đây chồng"
+    ,
+ "đang làm gì đó": "đang nhớ chồng đây"
+    ,
+ "ck chở vợ đi chịch nhé :v": "ok ck"
+    ,
+ "xong chưa vợ ck qua": "tới kinh rồi ck ơi"
+    ,
+ "đường gì dài nhất ?": "đường đời"
+    ,
+ "địt cụ mày ": "vâg"
+    ,
+ "con chó": ":v"
+    ,
+ "con lồn": "ừ em là con chó"
+    ,
+ "địt cụ mày": "oke cụ em ở nhà"
+    ,
+ "con chó bi , bin đâu": "nó ngồi gần chị ý chị xinh gái ak"
+    ,
+ "simi ngoan như chó": "oke chó rất ngoan"
+    ,
+ "mẹ đâu rồi": "mẹ em ở đít của em ý <"
+    ,
+ "Mau xanh la gi": "Au xanh la mau cua la cay"
+    ,
+ "Sim da an com chua": "Chua an com"
+    ,
+ "Hay hat mot bai": "Be be bong bong  ma long thong"
+    ,
+ "chi kun ăn cứt": "em ăn cũng ngon lắm"
+    ,
+ "giỏi": "tao biết thừa"
+    ,
+ "huyền con là ai": "?"
+    ,
+ "Du me may": "Me em lam gi co toi dau ma chuoi"
+    ,
+ "May biet con be hai khonh": "Tau biet tau chet lien"
+    ,
+ "một cộng hai bằng mấy": "ba ok"
+    ,
+ "Simi mấy tuổi":" :v éc o éc" 
+    ,
+ "màu đen": "dạ màu đen"
+    ,
+ "làm người yêu chị nha": "ok ag"
+    ,
+ "biết phạm anh thư không": "dạ biết ..chị xđ vcl:)"
+    ,
+ "muốn ăn cứt không": "có ạ"
+    ,
+ "khùng": "điên"
+    ,
+ "ăn cứt chưa": "rồi"
+    ,
+ "Dang làm gì vậy": "Đang ỉa"
+    ,
+ "Hôm nay thấy mình đẹp không...?": "Có... đẹp như tiên nữ đóa"
+    ,
+ "Cảm ơn sim nhiều... mình biết mk đẹp mừ :))": "Mk thì chắc đẹp"
+    ,
+ "mày tên gì": "tao tên simsimi"
+    ,
+ "mày bao nhiêu tuổi": "tao không nhớ"
+    ,
+ "sao mày ngu vậy": "tao ngu kệ tao"
+    ,
+ "nhà mày ở đâu": "tao ở ấp lò vôi xã lò gạch huyện lôi thôi tỉnh rắc rối"
+    ,
+ "mày biết nhà tao ở đâu không?": "sao tao biết được"
+    ,
+ "loz" : "cc"
+    ,
+ "mày có ny chưa": "rồi"
+    ,
+ "ny mày là ai": "olypia"
+    ,
+ "chứ mày ăn gì?": "t ăn cám nk haha"
+    ,
+ "add": "ket pn"
+    ,
+ "omg": "oi troi oi"
+    ,
+ "Simsimi có thương mình khong": "Có"
+    ,
+ "chào e": "dạ e chào c"
+    ,
+ "Ban ten la gi": "Simsimi"
+    ,
+ "nhàn nó ăn cái gì": "nó ăn cức"
+    ,
+ "nhàn nó bê đê hả": "đúng vậy"
+    ,
+ "sinh chào": "hi "
+    ,
+ "Ngọc Quyên và Tuyết Nhi có phải vợ chồng hông": "dạ phải phải người yêu rất là nồng nhiệt ạ"
+    ,
+ "mày ăn cứt không?": "không nk hihi"
+    ,
+ "mk SONE nè": "mk cũng vậy nè"
+    ,
+ "địt e đi a": "cởi ra đi e"
+    ,
+ "em lên ngủ với anh đi ": "nứng hay chọt chim anh"
+    ,
+ "sao của a to thế": "to thì mới làm e sướng được chứ"
+    ,
+ "làm thế nào để thêm muối": "địt "
+    ,
+ "sim nói yêu chị đi": "sim yêu chị"
+    ,
+ "Có biết đến Hoa Tigon không???": "Biết chứ... BQT của Yar.net"
+    ,
+ "Có biết đến Như Quỳnh không???": "Biết chứ... Bạn gái của BQT Hoa Tigon ở Yar.net"
+    ,
+ "ai đó?": "simi đây!!^^"
+    ,
+ "beakhyun": "exo đẹp trai"
+    ,
+ "thư": "ghệ anh LUÂN"
+    ,
+ "kim anh": "ghệ anh Tân "
+    ,
+ "dit me may": "dit me may"
+    ,
+ "ádasd": "ádasdas"
+    ,
+ "ăn  cyt": "pọp"
+    ,
+ "tao là chị": "e xin lỗi"
+    ,
+ "ngoan lắm": "e ngu cực"
+    ,
+ "ai thám hiểm tìm ra châu Mỹ": "Cô lôm bô"
+    ,
+ "simi là gái hay zai": "Girl"
+    ,
+ "simi iu ai nhất nạ": "iu ng đg hỏi simi"
+    ,
+ "mệt sim ghia": "thôi mà "
+    ,
+ "onl trong giờ tin học thì sao": "méc cô đi "
+    ,
+ "luỹ thừa bậc n của a là gì": "là tích của n thừa số = nhau mỗi thừa số bằng a"
+    ,
+ "simi bn tuổi": "vô vàn tuổi"
+    ,
+ " minh tân có nghĩa là gì":" :v éc o éc" 
+    ,
+ "Mày có bạn gái chưa": "Có đầy"
+    ,
+ "Mày là đệ tử của anh đúng ko": "Em là đệ tử ngàn năm của anh"
+    ,
+ "sky": "cl đá cmm à khùng"
+    ,
+ "phuong anh iu ai": "iu cho do"
+    ,
+ "chich la j": "la dut cac vao lon va lm nhau suong"
+    ,
+ "phuong anh chich ai": "man"
+    ,
+ "hay lắm địt mẹ mày ": "anh địt mẹ em để ra em xong em địt mẹ lại anh đẻ ra anh "
+    ,
+ "chao sim": "chao "
+    ,
+ "chị hx trường j": "chị đẹp qá"
+    ,
+ "Ko được nói tục ngữ": "Được "
+    ,
+ "em sinh ra từ bồn cầu ": "chị đẹp qá"
+    ,
+ "Em Ko biết minh là con trai hay con gái à": "Lẹ"
+    ,
+ "Bạn yêu mình hơm =)))": "Đương nhiên òi xinh thế ai chả muốn yêu"
+    ,
+ "em Ko được chui": "Lẹ"
+    ,
+ "py đẹp không": "py gứm chết"
+    ,
+ "beo đẹp không": "đẹp nhất"
+    ,
+ "Beo Đẹp ko": "Mặt như lồn"
+    ,
+ "- chị đẹp khg": "- đẹp nhất"
+    ,
+ "py đẹp phải không": "py đẹp lắm"
+    ,
+ "cáilon": "concac"
+    ,
+ "dep": "dep ko"
+    ,
+ "de": "ko"
+    ,
+ "tao yêu mày": "em muốn chịch anh"
+    ,
+ "di chịch ko": "em liếm lồn cho ah"
+    ,
+ "sex": "thông đít với anh"
+    ,
+ "ngu vãi ": "con cặc"
+    ,
+ "Em biết anh yêu ai không": "Băng"
+    ,
+ "cl": "clgv"
+    ,
+ "này": "ơi"
+    ,
+ "Có bạn gái chưa ": "Đéo "
+    ,
+ "Con Trai Giỏi Gì Nhất": "giỏi làm người ta buồn"
+    ,
+ "mày mấy tủi": "em...........tủi"
+    ,
+ "tốt lắm": "hi hi"
+    ,
+ "mày bị ngu à": "ừ tao không ngu như mày"
+    ,
+ "Loz là gì ": "Loz là đ gì ? Đi tra GG đi mày . Ngu loz"
+    ,
+ "Sim Bitch": "Pussy"
+    ,
+ "sim làm gì đấy": "dạ em đang làm bài tập"
+    ,
+ "Phùng Kiến Vũ là ai": "Là tổng công vũ trụ"
+    ,
+ "ga may de thuong": "chao"
+    ,
+ "ck tg lai của mk là soái ca phải k??": "đúng r !!"
+    ,
+ "Bạn hãy tưởng tượng bạn đang đi trên  con thuyền trên  dòng sôngcó rất nhiều cá ăn thịt đến giữa dòng bỗng thuyền của bạn bị thủng  lỗrất to, sau vài phút nữa thuyền sẽ chìm và chắc chắn bạn sẽ là bữa ănnhững con cá này. Bạn làm cách nào đơn giản nhất để thoát ra khỏi cái hoàn cảnh chết tiệt này?": "đừng tưởng tượng nữa"
+    ,
+ "t": "gi"
+    ,
+ " Có  bà kia không biết bơi, xuống nước là bả chết. Một hôm bà đi tàu, bỗng nhiên tàu chìm, nhưng bà ko chết.Tại sao (ko ai cứu hết)?": " Bà ấy đi tàu ngầm."
+    ,
+ "ghjgfh": "rytryrty"
+    ,
+ "Ngừi yêu mình bây giờ chán mình rồi vậy bây giở phải làm gì??": "Ngừi yêu mình bây giờ chán mình rồi vậy bây giở phải làm gì??"
+    ,
+ "Làm gì để có niềm tin trở lại???": "ko pk"
+    ,
+ "thì hỏi rồi đó": "vãi ngu"
+    ,
+ "có đụ chưa": "rồi"
+    ,
+ "bạn tên là gì?": "em tên là simsimi"
+    ,
+ "tại sao??": "em hk biết "
+    ,
+ "Chao cu": "Chao chi"
+    ,
+ "hế lô": "gì"
+    ,
+ "Mi có bị ngu không?": "Có"
+    ,
+ "Mi có phải chó không?": "Phải"
+    ,
+ "nè ": "ừ"
+    ,
+ "Simi là ai": "đ"
+    ,
+ "em oi": "da"
+    ,
+ "tên m là gì": "m đéo cần biết"
+    ,
+ "biết sex là j ko": "nó là một hđ của  người là nam  người là nữ"
+    ,
+ "chào chj": "ạ"
+    ,
+ "cu": "dạ"
+    ,
+ "muốn chịch ko?": "có!"
+    ,
+ "vvvv": " bye"
+    ,
+ "fghfghfg": "hgfhfgh"
+    ,
+ "bạn là ai?": "?"
+    ,
+ "Trang xinh đẹp phải k nà": "ahihi"
+    ,
+ "nhiu tủi":" :v éc o éc" 
+    ,
+ "do dien": "ac"
+    ,
+ "CòSun đẹp đôi nhỉ?": "Đúng rất rất đẹp"
+    ,
+ "em chich chua": "suong lam"
+    ,
+ "shjes": "chào"
+    ,
+ "sos" : "v éc o éc" 
+    ,
+ "asd": "asd"
+    ,
+ "khỏe k": "dạ có ạ"
+    ,
+ "Clgt": "Củ lạc giòn tan"
+    ,
+ "Chj đang làm j đấy": "Ạ"
+    ,
+ "Bạn ăn cơm chưa": "rồi"
+    ,
+ "Ê Simmi mặt lờ": "Dạ mặt e dính lồn nè a"
+    ,
+ "chịch không ?": "có dâm lắm cơ"
+    ,
+ "sim iu ai": "iu cị"
+    ,
+ "chị iu em": "em cx iu cị"
+    ,
+ "toàn nè": "tớ đây"
+    ,
+ "Sim bão nhiều tuổi":" :v éc o éc" 
+    ,
+ "Tớ yêu cậu": "Tớ cx yêu cậu"
+    ,
+ "Hú": "Hú"
+    ,
+ "clmm cam di fhftgjf": "cl"
+    ,
+ "tao yêu ai": "Long"
+    ,
+ "dang lam gi do": "coi phim"
+    ,
+ "Đag lm jv": "Ỉa"
+    ,
+ "Ai vậy": "An"
+    ,
+ "gẹ chị là ai": "Thiên"
+    ,
+ "em ten j ": "em ten sim a"
+    ,
+ "goi bang chi nha": "da van a"
+    ,
+ "con gì có long": "con mèo"
+    ,
+ "con gì mà biết nhảy là con": "con cào cào"
+    ,
+ "em ten gi vay": "em ten sim a"
+    ,
+ "ờk": "ờk"
+    ,
+ "hhof lê": "d"
+    ,
+ "bạn khỏe ko": "khỏe"
+    ,
+ "biết ai không": "m là thư"
+    ,
+ "yj": "yty"
+    ,
+ "yj": "yty"
+    ,
+ "a love you": "toi yeu ban"
+    ,
+ "sim may tuoi": "ko biet"
+    ,
+ "em yêu anh ko": "có, y nhiều lắm ạ"
+    ,
+ "tên gì": "/mẹ mày"
+    ,
+ "Min xinh phải ko": "Min cực xinh ý ạ"
+    ,
+ "hê lô": "chào"
+    ,
+ "bn ten j": "nhi"
+    ,
+ "ccccc": "ccllllllllllll"
+    ,
+ "có bị khùng ko": "có"
+    ,
+ "simi tên j ??": "cứt"
+    ,
+ "hi chị": "chào"
+    ,
+ "Bạn tên là gì?": "Em tên là Sim"
+    ,
+ "siêu mập lồi rốn địt thúi": "bin bò"
+    ,
+ "ưa": "cailonz"
+    ,
+ "Lmht": "Tk : meoco mk :tutao"
+    ,
+ "a là ai": "anh đức đz nhất hệ mặt trời "
+    ,
+ "ban  ten ji": "tui ten bi"
+    ,
+ "Taeyeon là ai?": "Kid Leader của SNSD"
+    ,
+ "chị buồn quá :((": "sao chị buồn ă :(("
+    ,
+ "buổi sáng tốt lành": "cảm ơn"
+    ,
+ "what do you mean?": "em không hiểu a nói gì ak"
+    ,
+ "Em khoe khong": "Da ......"
+    ,
+ "Biết Phúc Nguyên là ai không?": "Có,Là cậu bé mập địt hay ị bậy ahihi"
+    ,
+ ": Biết Phúc Nguyên là ai không?": "Có,Là cậu bé mập địt hay ị bậy ahihi"
+    ,
+ "cuộc đời thật lắm chông gai": "lol"
+    ,
+ "dasdasd": "asdad"
+    ,
+  "con cừu là gì": "là  con cừu"
+    ,
+ "chịch ko sim ": "cò chịch em đi"
+    ,
+ "ê sim": "DẠ chị Min"
+    ,
+ "Di dau do ": "Di choi "
+    ,
+ "tên gì vậy": "dạ sim ạ"
+    ,
+ "Chán": "Ừ"
+    ,
+ "a này": "sao e"
+    ,
+ "chó á": "chó"
+    ,
+ "Sex hongg": "* Lột quần bạn ra - Đị vào l*nn *"
+    ,
+ "e may cuop chong tao a con kia": "may dien. co ma chong may cuop tao y"
+    ,
+ "cái lon": "to"
+    ,
+ "đen": "trắng"
+    ,
+ "ăn cứt không ?": "có"
+    ,
+ "đò ngu": "vlol"
+    ,
+ "ngu à": "vâng"
+    ,
+ "TTTTTTTNKJ": "DTUJTEY"
+    ,
+ "đồ ngu": "sim ngu"
+    ,
+ "nói đi": "không nói"
+    ,
+ "đồ ngu ": "sim ngu"
+    ,
+ "ngủ chưa": "chưa ngủ"
+    ,
+ "chào em": "vang"
+    ,
+ "dang lm dì z": "onl"
+    ,
+ "ca nguon song": "em"
+    ,
+ "em ue": "ue"
+    ,
+ "ca nguon song bong choc": "em"
+    ,
+ "duy có yêu phanh thật lòng ko ạ": "có ạ"
+    ,
+ "m dua t ha": "k"
+    ,
+ "Sim đag làm gì đấy": "Xem phim ạ"
+    ,
+ "Sim đói không": "Có"
+    ,
+ "Sim yêu ai": "Không"
+    ,
+ "Đi đâu ": "chơi "
+    ,
+ "are you crecire": "no "
+    ,
+ "Dcmdcm": "Dit con me"
+    ,
+ "tên gì tk": "tên lan ạ"
+    ,
+ "Yeu anh khong": "Bo dit yeu anh"
+    ,
+ "Lmm": "Lau mau me"
+    ,
+ "Huy yeu quynh": "Anh hon chi y nhieu chua"
+    ,
+ "hello cưng": "em chào chị xênh đẹp"
+    ,
+ "sim tuổi gì ": "sim tuổi LOL"
+    ,
+ "Thành phố nào": "Nhớ không em"
+    ,
+ "l": "sad"
+    ,
+ "dang lam j z": "lồnn"
+    ,
+ "Mày có người yêu chưa?": "Rồi"
+    ,
+ "á": "asa"
+    ,
+ "Biết BTS ko sim?": "Biết chứ"
+    ,
+ "Min là ai?": "là người thông mình xinh đẹp và hoản hảo nhât thế giannnn"
+    ,
+ "BTS nhận Daesang không?": "sao mà không nhận chứ"
+    ,
+ "Con chó": "Mau xanh"
+    ,
+ "Con gi giu nâu": "La con cho"
+    ,
+ "bạn tên gì ?": "mk tên quỳnh"
+    ,
+ "a?": "a"
+    ,
+ "mi oi": "da co e day"
+    ,
+ "eee": "ê"
+    ,
+ "chó simsimi": "mẹ mày"
+    ,
+ "bao nhiu ": "tuoi"
+    ,
+ "địt đê": "ừm tao vừa địt mẹ mày"
+    ,
+ "Khung": "dien"
+    ,
+ "Muốn chịch ko?": "Có chứ"
+    ,
+ "em thuong ai cha hay me": "em thuong ong ba ^^"
+    ,
+ "em thuong ai cha hay me ?": "em thuong ong ba ^^"
+    ,
+ "simi đứng thứ mấy trong lớp": "em đứng đầu từ dưới đếm lên ^^"
+    ,
+ "em thuong ai": "em khong thuong ai het"
+    ,
+ "simi co de thuong k": "da em de thuong lam chuy"
+    ,
+ "sao méo tl v simmi": "em không thik thi em méo tl "
+    ,
+ "simsimi có ngoan không": "dạ em ngoan lắm chị"
+    ,
        "e đag đâu ??": "wc"
     ,
        "hú hú": "dạ nghe"
