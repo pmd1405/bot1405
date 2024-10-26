@@ -1,0 +1,98 @@
+module.exports.config = {
+    name: "trai18",
+    version: "1.0.0",
+    hasPermssion: 0,
+    credits: "Phạm Minh Duy",
+    description: "Random ảnh trai18",
+    commandCategory: "Nsfw",
+    usages: "trai18",
+    cooldowns: 5,
+    dependencies: {
+      "request":"",
+      "fs-extra":"",
+      "axios":""
+    }
+      
+  };
+  
+  module.exports.run = async({api,event,args,Users,Threads,Currencies}) => {
+  const axios = global.nodemodule["axios"];
+  const request = global.nodemodule["request"];
+  const fs = global.nodemodule["fs-extra"];
+      var link = [
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/1.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/2.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/3.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/4.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/5.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/6.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/7.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/8.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/9.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/10.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/11.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/12.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/13.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/14.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/15.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/16.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/17.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/18.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/19.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/20.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/21.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/22.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/23.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/24.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/25.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/26.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/27.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/28.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/29.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/30.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/31.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/32.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/33.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/34.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/35.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/36.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/37.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/38.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/39.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/40.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/41.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/42.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/43.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/44.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/45.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/46.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/47.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/48.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/49.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/50.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/51.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/52.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/53.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/54.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/55.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/56.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/57.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/58.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/59.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/60.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/61.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/62.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/63.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/64.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/65.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/66.jpg?raw=true",
+  "https://github.com/pmd1405/bot1405/blob/main/trai18/67.jpg?raw=true"
+  
+       ];
+    
+  let callback = function() {
+              return api.sendMessage({body:`Ảnh Trai18 mlem mlem\nSố ảnh: ${link.length}`,attachment: fs.createReadStream(__dirname+`/cache/${event.messageID}.jpg`)}, event.threadID, () => fs.unlinkSync(__dirname+`/cache/${event.messageID}.jpg`), event.messageID);  
+          };
+  return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+`/cache/${event.messageID}.jpg`)).on("close", callback);
+  
+     };
